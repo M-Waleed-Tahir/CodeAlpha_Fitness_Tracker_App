@@ -1,6 +1,6 @@
-# fitness_tracker_app
+# CodeAplha_Internship
 
-A new Flutter project.
+CodeAplha Task # 03
 
 ## Getting Started
 
