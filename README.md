@@ -1,4 +1,4 @@
-# CodeAplha_Internship
+# FitnessApp_UiProject
 
 CodeAplha Task # 03
 
